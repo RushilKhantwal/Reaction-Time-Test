@@ -5,5 +5,5 @@ and average of 5 such keypress reaction time tests.
 The project is created using pygame module in python.
 
 ##Sample Output
-<img src=""Reaction Time Test"/sample.gif"/>
+<img src="sample.gif"/>
 
